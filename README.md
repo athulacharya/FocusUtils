@@ -1,6 +1,7 @@
 # FocusUtils
 
 A Swift library for interacting with the focused window on macOS using the Accessibility API.
+So far, the main thing it provides is a function to warp the cursor to the center of the focused window.
 
 NOTE: Purely vibe-coded with Claude Opus 4.5.
 
