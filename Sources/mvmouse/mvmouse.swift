@@ -1,0 +1,3 @@
+import FocusUtils
+
+FocusedWindow.warpCursorToCenter()
