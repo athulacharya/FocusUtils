@@ -15,7 +15,7 @@ Add to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/youruser/FocusUtils", from: "1.0.0")  // remote
+    .package(url: "https://github.com/athulacharya/FocusUtils", from: "1.0.0")  // remote
 ]
 ```
 
